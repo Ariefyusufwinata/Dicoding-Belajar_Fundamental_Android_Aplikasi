@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Aplikasi Github User</string>
+    <string name="mode_terang">Mode Terang</string>
+    <string name="mode_gelap">Mode Gelap</string>
+    <string name="mengikuti_sistem">Mengikuti Sistem</string>
+    <string name="tentang">Tentang</string>
+    <string name="deskripsi">Aplikasi ini dibuat pada Sabtu, 29 Januari 2022 untuk menyelesaikan submission 3 dari pihak dicoding</string>
+    <string name="aktifkan">Aktifkan</string>
+    <string name="welcome_to_github_user">Welcome To Github User</string>
+    <string name="image">Image</string>
+    <string name="cari">Cari</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+
+    <string name="tab1">Followers</string>
+    <string name="tab2">Following</string>
+</resources>
