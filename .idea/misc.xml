@@ -3,15 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/Aplikasi Github User/app/src/main/res/drawable/favorite_toggle.xml" value="0.28489583333333335" />
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/Aplikasi Github User/app/src/main/res/layout/activity_detail.xml" value="0.2754782700075322" />
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/Aplikasi Github User/app/src/main/res/layout/activity_detail_user.xml" value="0.4173913181932306" />
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/Aplikasi Github User/app/src/main/res/layout/activity_main.xml" value="0.26875" />
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/Aplikasi Github User/app/src/main/res/layout/activity_splash.xml" value="0.26875" />
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/Aplikasi Github User/app/src/main/res/layout/fragment_follow.xml" value="0.2086956590966153" />
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/Aplikasi Github User/app/src/main/res/layout/item_row_user.xml" value="0.39260969976905313" />
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/app/src/main/res/layout/activity_main.xml" value="0.4173913181932306" />
-        <entry key="..\:/Projects/Android/Dicoding/Submission/Dicoding - Submission 2/app/src/main/res/layout/item_row_user.xml" value="0.559304366378929" />
+        <entry key="..\:/Aplikasi Github User/app/src/main/res/layout/activity_main.xml" value="0.2578125" />
       </map>
     </option>
   </component>

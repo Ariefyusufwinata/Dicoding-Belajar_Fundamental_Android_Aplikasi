@@ -11,24 +11,35 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/ic_gituser"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AplikasiGithubUser">
+        android:theme="@style/Theme.AplikasiGithubUser"
+        >
         <activity
-            android:name=".github.view.activity.SplashActivity"
+            android:name=".view.FavoriteActivity"
+            android:exported="false"
+            />
+        <activity
+            android:name=".view.SettingsAndAboutActivity"
+            android:exported="false"
+            />
+        <activity
+            android:name=".view.DetailActivity"
+            android:exported="false"
+            />
+        <activity
+            android:name=".view.MainActivity"
+            android:exported="false"
+            >
+        </activity>
+        <activity
+            android:name=".view.SplashScreenActivity"
+            android:exported="true"
             android:theme="@style/Theme.SplashScreen"
-            android:exported="true">
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name=".github.view.activity.DetailUserActivity"
-            android:exported="false"
-            />
-        <activity
-            android:name=".github.view.activity.MainActivity"
-            android:exported="false">
         </activity>
     </application>
 
