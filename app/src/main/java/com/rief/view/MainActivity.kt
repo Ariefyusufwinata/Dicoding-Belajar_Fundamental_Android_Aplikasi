@@ -1,4 +1,4 @@
-package com.rief
+package com.rief.view
 
 import android.annotation.SuppressLint
 import android.content.res.Configuration
@@ -7,6 +7,7 @@ import android.os.Bundle
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.rief.R
 import com.rief.adapater.ListUserGithubAdapter
 import com.rief.model.UserGithub
 

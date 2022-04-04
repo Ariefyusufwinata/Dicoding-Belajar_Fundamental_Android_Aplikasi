@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.rief.DetailActivity
+import com.rief.view.DetailActivity
 import com.rief.R
 import com.rief.model.UserGithub
 

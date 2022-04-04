@@ -1,10 +1,11 @@
-package com.rief
+package com.rief.view
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
 import android.widget.TextView
+import com.rief.R
 import com.rief.model.UserGithub
 
 class DetailActivity : AppCompatActivity() {
